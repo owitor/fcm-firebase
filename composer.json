@@ -1,0 +1,15 @@
+{
+    "name": "witor/fcm-firebase",
+    "autoload": {
+        "psr-4": {
+            "FcmFirebase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Witor S. Oliveira",
+            "email": "witor.oliveira@vistasoft.com.br"
+        }
+    ],
+    "require": {}
+}
